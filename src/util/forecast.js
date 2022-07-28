@@ -13,7 +13,7 @@ const forecast = (lat,lon,callback) =>{
             callback("Unable to find location",undefined);
         }
         else{
-            callback(undefined,objData.current.weather[0].description + ". " +"Current temparture is " + objData.current.temp + " . Feels like " + objData.current.feels_like + ". Wind is reported at speed of " + objData.current.wind_speed + ". Humidity in air is " +objData.current.humidity );
+            callback(undefined,objData.current.weather[0].description + ". " +"Current temparture is " + objData.current.temp + " . Feels like " + objData.current.feels_like + ". Wind is reported at speed of " + objData.current.wind_speed + ". Humidity in air is " + objData.current.humidity );
         }
     })
     .on('end',  (err) => {
