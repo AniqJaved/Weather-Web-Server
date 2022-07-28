@@ -16,7 +16,9 @@ form.addEventListener('submit',(e)=>{
     else{
         message_2.innerHTML = "";
         message_1.innerHTML = "Loading..";
-        fetch(`http://localhost:8000/weather?address=${input.value}`).then((response)=>{ //Here we are using the promise, bascially it means that go to the particular url and wait (async) and when 
+        //For local host use url = `http://localhost:8000/weather?address=${input.value}`
+
+        fetch(`/weather?address=${input.value}`).then((response)=>{ //Here we are using the promise, bascially it means that go to the particular url and wait (async) and when 
                                                                                      //to get the response then callback. Now we are using one more call back because we are getting reponse in format of promise which we need to convert into json and then again wait untill it is processed.
             response.json().then((data)=>{
                 if(data.error){
