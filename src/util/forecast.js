@@ -4,7 +4,6 @@ const forecast = (lat,lon,callback) =>{
     requests(`https://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${lon}&appid=ac89e54ccaad3fe59b93d8aa673ec717&units=metric`)
     .on('data',  (chunk) => {
         const objData = JSON.parse(chunk);
-        console.log(objData.current);
         const hasError = objData.error;
         if(typeof hasError !== 'undefined'){
             callback("Network issue found",undefined);
