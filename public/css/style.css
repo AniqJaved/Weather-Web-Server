@@ -1,13 +1,27 @@
+@font-face {
+    font-family: 'Blum Normal';
+    src: url('./fonts/Blum-Normal.eot');
+    src: url('./fonts/Blum-Normal.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/Blum-Normal.woff2') format('woff2'),
+        url('./fonts/Blum-Normal.woff') format('woff'),
+        url('./fonts/Blum-Normal.svg#Blum-Normal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 body{
     color: #333333;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Blum Normal', serif;
     max-width: 650px;
     margin: 0 auto;
     padding: 0 16px;
-    display: flex;
-    flex-direction: column;
-    min-height: 100px;
+    display: grid;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    align-content: center;
+    min-height: 100vh;
 }
+
 
 .main-content{
     flex-grow: 1;

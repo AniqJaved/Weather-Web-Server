@@ -1,0 +1,17 @@
+form{
+    margin-top: 30px;
+}
+input{
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    height: 30px;
+    width: 200px;
+    font-family: 'Blum Normal';
+}
+
+button{
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    color: black;
+    font-family: 'Blum Normal';
+}

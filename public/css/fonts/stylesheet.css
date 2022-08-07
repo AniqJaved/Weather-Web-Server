@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Blum Normal';
+    src: url('Blum-Normal.eot');
+    src: url('Blum-Normal.eot?#iefix') format('embedded-opentype'),
+        url('Blum-Normal.woff2') format('woff2'),
+        url('Blum-Normal.woff') format('woff'),
+        url('Blum-Normal.svg#Blum-Normal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blum Normal';
+    src: url('Blum-Italic.eot');
+    src: url('Blum-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Blum-Italic.woff2') format('woff2'),
+        url('Blum-Italic.woff') format('woff'),
+        url('Blum-Italic.svg#Blum-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
