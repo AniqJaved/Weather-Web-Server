@@ -60,10 +60,10 @@ git clone https://github.com/AniqJaved/Weather-Web-Server.git
 Try it out at: https://aniq-weather-application.herokuapp.com/weather
 
 
-##Further details
+## Further details
 
 
-# Local Server
+### Local Server
 To run in a local server use : nodemon src/app.js -e js.hbs
 
 Or
