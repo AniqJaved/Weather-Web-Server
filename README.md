@@ -91,7 +91,6 @@ You can create a <a href="https://github.com/AniqJaved/Weather-Web-Server/issues
   
 <br>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-red?style=for-the-badge" /></a></p>
 
 <div align="center">
 
