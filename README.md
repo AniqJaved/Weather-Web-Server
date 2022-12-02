@@ -75,3 +75,42 @@ It is becasuse previously we have nodemon as global but then we installed it as:
 It means it will run only during the development enviroment. Cool.....
 
 
+
+## Code Of Conduct 📜
+
+To maintain a safe and inclusive space for everyone to learn and grow, contributors are advised to follow the [Code of Conduct](https://github.com/AniqJaved/Weather-Web-Server/blob/master/CODE_OF_CONDUCT.md).
+
+
+# Contribution is fun! ✌🏼
+
+If you have any feedback or suggestions please reach out to me.  
+
+In order to make a hassle-free environment, I implore you all (while contributing) to follow the instructions [Contributing Guidelines](https://github.com/AniqJaved/Weather-Web-Server/blob/master/CONTRIBUTING.md)!
+
+You can create a <a href="https://github.com/AniqJaved/Weather-Web-Server/issues">issue</a> and mention there , which new features or extension can make this Project more good.
+
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<br>
+  
+<br>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-red?style=for-the-badge" /></a></p>
+
+<div align="center">
+
+### Show some ❤️ by starring⭐ this awesome Repository!
+
+</div>
+<br>  
+
+<h1 align=center> OUR VALUABLE CONTRIBUTORS✨ </h1>
+<p align="center">
+  
+	
+<a href="https://github.com/AniqJaved/Weather-Web-Server/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AniqJaved/Weather-Web-Server" />
+</a>
+
+

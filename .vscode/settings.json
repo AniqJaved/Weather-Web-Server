@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1d587e2d-6a58-4897-9ee1-25c1fc5dd076/appservices/subscriptions/1d587e2d-6a58-4897-9ee1-25c1fc5dd076/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/check-weather-web-app",
+    "appService.deploySubpath": "."
+}
