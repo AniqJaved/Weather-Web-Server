@@ -81,7 +81,7 @@ It means it will run only during the development enviroment. Cool.....
 To maintain a safe and inclusive space for everyone to learn and grow, contributors are advised to follow the [Code of Conduct](https://github.com/AniqJaved/Weather-Web-Server/blob/master/CODE_OF_CONDUCT.md).
 
 
-# Contribution is fun! ✌🏼
+## Contribution is fun! ✌🏼
 
 If you have any feedback or suggestions please reach out to me.  
 
