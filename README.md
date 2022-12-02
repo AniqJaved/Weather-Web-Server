@@ -4,7 +4,7 @@
 
 ### Description
 
-This is a weather app where you can search the weather details of a particular area. The prompt provides you with all the relevent things like overcast, temprature, wind and humidity details. This app is powered by Azure-Weather-API (https://learn.microsoft.com/en-us/rest/api/maps/weather) which gives your other details beside these to play around with.
+This is a weather app where you can search the weather details of a particular area. The prompt provides you with all the relevent things like overcast, temprature, wind and humidity details. This app is powered by Azure-Weather-API (https://learn.microsoft.com/en-us/rest/api/maps/weather) which provides you with other details beside these to play around with.
 
 ### Preview
 
