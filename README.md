@@ -1,15 +1,10 @@
 
 # Weather-Web-Server
 
-### Participants
-
-Github : @AniqJaved 
-
-Discord : AniqJaved#4687
 
 ### Description
 
-This is a weather app where you can search the weather details of a particular area. 
+This is a weather app where you can search the weather details of a particular area. The prompt provides you with all the relevent details 
 
 ### Preview
 
@@ -57,10 +52,10 @@ git clone https://github.com/AniqJaved/Weather-Web-Server.git
     ```
 
 ## Live Preview
-Try it out at: https://aniq-weather-application.herokuapp.com/weather
+Try it out at: https://check-weather-web-app.azurewebsites.net/weather
 
 
-## Further details
+## Deployment
 
 
 ### Local Server
